@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hash-game-api", "hash-game-api\hash-game-api.csproj", "{FE2ABB57-9A46-45C0-910B-8A09032BC515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2ABB57-9A46-45C0-910B-8A09032BC515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2ABB57-9A46-45C0-910B-8A09032BC515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2ABB57-9A46-45C0-910B-8A09032BC515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2ABB57-9A46-45C0-910B-8A09032BC515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BB031BE-2AE6-4397-906A-9C13F51D485A}
+	EndGlobalSection
+EndGlobal
