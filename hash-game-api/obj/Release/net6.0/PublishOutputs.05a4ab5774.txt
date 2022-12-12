@@ -1,0 +1,12 @@
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\hash-game-api.exe
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\hash-game-api.dll
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\hash-game-api.deps.json
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\hash-game-api.runtimeconfig.json
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\hash-game-api.pdb
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\casey\Downloads\Casey\Programação\C#\hash-game-api\hash-game-api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

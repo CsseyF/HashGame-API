@@ -19,7 +19,7 @@ builder.Services.AddCors(options =>
     {
         policy.AllowAnyHeader()
             .AllowAnyMethod()
-            .WithOrigins("http://localhost:3000")
+            //.AllowAnyOrigin()
             .AllowCredentials();
     });
 });
@@ -28,12 +28,8 @@ builder.Services.AddScoped<ISocketService, SocketService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 var webSocketOptions = new WebSocketOptions()
 {
