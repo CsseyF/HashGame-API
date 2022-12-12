@@ -19,9 +19,9 @@ builder.Services.AddCors(options =>
     {
         policy.AllowAnyHeader()
             .AllowAnyMethod()
-            //.AllowAnyOrigin()
-            .WithOrigins("https://hash-game-wine.vercel.app")
-            .AllowCredentials();
+            .AllowAnyOrigin();
+            //.WithOrigins("https://hash-game-wine.vercel.app")
+            //.AllowCredentials();
     });
 });
 
