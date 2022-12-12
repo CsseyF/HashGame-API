@@ -7,6 +7,7 @@
     <RootNamespace>hash_game_api</RootNamespace>
     <UserSecretsId>3988b675-6103-4cd6-83b7-deaad7cf2f4f</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	<InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
   <ItemGroup>
