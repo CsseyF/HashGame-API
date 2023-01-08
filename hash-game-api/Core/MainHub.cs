@@ -15,6 +15,11 @@ namespace hash_game_api.Core
         public async Task JoinRoom(string roomName)
         {
             await Groups.AddToGroupAsync(Context.ConnectionId, roomName);
+            await SendMessage(new SendMessageRequest()
+            {
+                Message = Context.ConnectionId,
+                User = "System"
+            }, roomName);
             Console.WriteLine($"Entity {Context.ConnectionId} Sucessfuly conneced to {roomName}");
         }
     }
