@@ -19,8 +19,7 @@ builder.Services.AddCors(options =>
     {
         policy.AllowAnyHeader()
             .AllowAnyMethod()
-            .WithOrigins("https://hash-game-wine.vercel.app")
-            //.WithOrigins("http://localhost:3000")
+            .WithOrigins("https://hash-game-wine.vercel.app", "http://localhost:3000")
             .AllowCredentials();
     });
 });
